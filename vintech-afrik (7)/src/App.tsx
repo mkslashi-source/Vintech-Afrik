@@ -294,35 +294,35 @@ const PRODUCTS: Product[] = [
       }
     ],
     reviews: [
-      { id: 101, name: "Mariama D.", location: "Dakar", rating: 5, comment: "Incroyable ! On voit tout sur le téléphone, c'est super impressionnant et très efficace. Je ne peux plus m'en passer.", date: "15 Janvier 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Adfa80fcdb5a449da8fac47b4865ed897y.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A7fa799341c33470691ff6896a778637e7.jpg_960x960q75.jpg_.avif"] },
-      { id: 102, name: "Fatou K.", location: "Thiès", rating: 5, comment: "Je n'en attendais pas grand-chose et j'ai été bluffée ! Mon seul regret ? Ne pas l'avoir découvert plus tôt ! 😄", date: "22 Janvier 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Abbf64d746519490da166fae881cb16c2G.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A2595d43860384bc6affdfad2c7d3b1e3r.jpg_960x960q75.jpg_.avif"] },
-      { id: 103, name: "Abdoulaye S.", location: "Saint-Louis", rating: 5, comment: "Bon produit... je le recommande et la caméra a une bonne résolution.", date: "02 Février 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A4d950cb9143b453c9954dd51df52a865C.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A5199c405c3ae45a7978e5674d2c90b383.jpg_960x960q75.jpg_.avif"] },
-      { id: 104, name: "Ousmane T.", location: "Ziguinchor", rating: 5, comment: "Commande bien emballée. Arrivée le jour prévu. Dispositif pour enlever le cérumen. Parfait, il est super. Il est impeccable. J'en ai déjà commandé deux autres pour ma famille. Je le recommande vivement. 💯 Merci.", date: "10 Février 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A8c05ba610b9e4c39a94983ce52fd71d2e.jpg_960x960q75.jpg_.avif"] },
-      { id: 105, name: "Awa N.", location: "Kaolack", rating: 5, comment: "Je l'ai testé moi-même, tout est parfait, ça fonctionne à merveille. Le téléchargement et l'installation du programme sont très simples.", date: "18 Février 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A385d63cf52d54838ac5fe109c85b704ey.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Aa2596ac2e1fe4e2cad79d618d74005dco.jpg_960x960q75.jpg_.avif"] },
-      { id: 106, name: "Seydou B.", location: "Dakar", rating: 5, comment: "Je ne l'ai pas encore essayé, mais ça a l'air bien... j'espère que ça fonctionnera bien.", date: "25 Février 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ac5375ab15bb149179ef9b06d51d2ebfbn.jpg_960x960q75.jpg_.avif"] },
-      { id: 107, name: "Astou C.", location: "Touba", rating: 5, comment: "Conforme à la description et reçu très rapidement.", date: "05 Mars 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A08a17ba948a545819b8d0b311a5145e6r.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A2620ecef5b3a4edfab16443d07089904P.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A99fa79fe276d47279b45c5ea4d89bb7b9.jpg_960x960q75.jpg_.avif"] },
-      { id: 108, name: "Moussa S.", location: "Mbour", rating: 5, comment: "Tout est arrivé en bon état, il ne reste plus qu'à l'utiliser.", date: "12 Mars 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A27e455772a114036a36d17362af4d5b7Z.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A5422ab4a9a8d486b8475082dd581fc07q.jpg_960x960q75.jpg_.avif"] },
-      { id: 109, name: "Khady G.", location: "Thiès", rating: 5, comment: "L'article est conforme à sa description.", date: "20 Mars 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ac925be5dc7dd4bd69efafee006df6449h.jpg_960x960q75.jpg_.avif"] },
-      { id: 110, name: "Ibrahima F.", location: "Louga", rating: 5, comment: "Le colis est arrivé en bon état et à la date prévue. Je vais télécharger l'application et la tester. Je recommande le vendeur.", date: "28 Mars 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ad37cb9cbb2b74ff186e91b28c68447ae7.jpg_960x960q75.jpg_.avif"] },
-      { id: 111, name: "Saliou N.", location: "Dakar", rating: 5, comment: "Un appareil très pratique, et la qualité d'image est également très bonne ; facile à utiliser.", date: "05 Avril 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ae44ba4fc17704deb92f38d51db8b8752P.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Adadfed9250eb4911b19ea10a485d1256s.jpg_960x960q75.jpg_.avif"] },
-      { id: 112, name: "Nafissatou D.", location: "Saint-Louis", rating: 5, comment: "Je recommande à 100% ! On voit exactement ce qu’on enlève, c’est satisfaisant 😍", date: "12 Avril 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Adf1690ae1edd42f5ba5dc49249825bfaa.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A1730f92cbe6f453f8539aceca4aba889M.jpg_960x960q75.jpg_.avif"] },
-      { id: 113, name: "Cheikh S.", location: "Mbour", rating: 5, comment: "Merci, tout est arrivé en bon état, bien emballé, conforme à ma commande.", date: "19 Avril 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ad3f6e39287a64f7a88b2eb00962839f07.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A9d2458027f7446fc985a807782c96c71W.jpg_960x960q75.jpg_.avif"] },
-      { id: 114, name: "Fatou J.", location: "Thiès", rating: 5, comment: "Reçu rapidement et en bon état, la connexion à l'application n'a pas été très facile, mais elle a fini par fonctionner... merci au vendeur.", date: "26 Avril 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Aaa14ad91eb924f2ea550e7e15fa1e318a.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A7944213bbabc46a380cd15d8a6ba9feeI.jpg_960x960q75.jpg_.avif"] },
-      { id: 115, name: "Moussa G.", location: "Dakar", rating: 5, comment: "Produit indispensable à la maison. Toute la famille l’utilise maintenant !", date: "03 Mai 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A2f813da4311d4edfa750a3f0a50c41c5a.jpg_960x960q75.jpg_.avif"] },
-      { id: 116, name: "Awa S.", location: "Saint-Louis", rating: 4, comment: "C'est pas cher mais ça marche bien, haha. La qualité d'image est un peu décevante, mais on voit les oreilles.", date: "10 Mai 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/S88d82b14f766435b802a8811fc016eb35.jpg_960x960q75.jpg_.avif"] },
-      { id: 117, name: "Omar D.", location: "Ziguinchor", rating: 5, comment: "J’ai économisé des visites chez le médecin grâce à ça. Hyper pratique.", date: "17 Mai 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Scd4a2638dd134966bc2211cdcc86f91dD.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Se8c8bca25378407d84882711aec61caca.jpg_960x960q75.jpg_.avif"] },
-      { id: 118, name: "Bineta N.", location: "Kaolack", rating: 5, comment: "Il est facile à utiliser et fonctionne bien avec la connexion.", date: "24 Mai 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Sa6bca869f08e474faab0d5f932399e2b5.jpg_960x960q75.jpg_.avif"] },
-      { id: 119, name: "Abdou K.", location: "Mbour", rating: 5, comment: "Est-ce vraiment possible de l'avoir à un prix aussi bas ? 😭 C'est vraiment incroyable ! J'avais l'impression de voir tous les pores de ma peau, non, vraiment !", date: "01 Juin 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Sd8c689bbf72f4fae8ae764b9a8a339ad6.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Saff963dc3fd04bbab5408ccab522244bG.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Seed62a3726a542f58aac6ec0a2a96b13V.jpg_960x960q75.jpg_.avif"] },
-      { id: 120, name: "Mariama L.", location: "Touba", rating: 5, comment: "Produit d'excellente qualité, très fonctionnel", date: "08 Juin 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A8e4f8ce80aab47bab47ba680737235e40.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A45f1bebd59b0446189b71c592bba8d3a6.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A2706c118f7794223b8c7e4275047db51I.jpg_960x960q75.jpg_.avif"] },
-      { id: 121, name: "Ibrahima F.", location: "Louga", rating: 5, comment: "Bien reçu, il ne reste plus qu'à le tester, il semble complet.", date: "15 Juin 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ae4f928425073491bbc52a3c2cc6d92c5H.jpg_960x960q75.jpg_.avif"] },
-      { id: 122, name: "Khady M.", location: "Richard-Toll", rating: 5, comment: "Colis reçu en bon état et fonctionnel. J'en suis satisfait.", date: "22 Juin 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/Af1df0d19b630459ea764530ee5d94d05d.jpg_960x960q75.jpg_.avif"] },
-      { id: 123, name: "Pape T.", location: "Kolda", rating: 5, comment: "Parfait, c'est magnifique.", date: "29 Juin 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A5b9a6164604e466ea071fc2abb496905z.jpg_960x960q75.jpg_.avif"] },
-      { id: 124, name: "Cheikh S.", location: "Dakar", rating: 5, comment: "C'est vraiment agréable. Après une utilisation prolongée, une légère sensation de chaleur se fait sentir, mais c'est tout à fait normal.", date: "10 Juillet 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/S292c2cfd3e6d4c868bda0a27ecfeed65b.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Af5bab2e357d84aeaa74ca54cc8b07990l.jpg_960x960q75.jpg_.avif"] },
-      { id: 125, name: "Seynobu J.", location: "Thiès", rating: 5, comment: "C'est formidable que le kit comprenne une variété d'outils.", date: "20 Juillet 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A8da3d7966c9d47f4b3de5f14bf7e4183h.jpg_960x960q75.jpg_.avif"] },
-      { id: 126, name: "Nafissatou P.", location: "Saint-Louis", rating: 5, comment: "Très bien ! le livreur est arrivé en moins de 45 minutes", date: "30 Juillet 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A0e18191a26b1460985f21ced6b516d1ab.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Ae5dc468545ba4212ae9fba3b20d2014fA.jpg_960x960q75.jpg_.avif"] },
-      { id: 127, name: "Ousmane B.", location: "Ziguinchor", rating: 5, comment: "Très bon produit, l'image est parfaitement claire (10/10).", date: "05 Août 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A256c8be2cff04e9a9f1051a47675d296x.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Abd5ca4088df74ac592e32c0e82fb7bc6a.jpg_960x960q75.jpg_.avif"] },
-      { id: 128, name: "Saliou G.", location: "Kaolack", rating: 5, comment: "Très bon produit, il faut juste prendre le coup de main au début mais après c’est top.", date: "15 Août 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A0b2884055f764cbe8c8877bd170c087bt.jpg_960x960q75.jpg_.avif"] },
-      { id: 129, name: "Nogaye C.", location: "Touba", rating: 5, comment: "Je suis vraiment surpris, excellent produit : utile et moins cher.", date: "25 Août 2025", images: ["https://ae-pic-a1.aliexpress-media.com/kf/A95f372c3593243bd8770803619b323d8q.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A920dd6f70d274f4c875002701462ac31N.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Acc8c6330cadb4b1b9078f90a7819742fF.jpg_960x960q75.jpg_.avif"] }
+      { id: 101, name: "Mariama D.", location: "Dakar", rating: 5, comment: "Incroyable ! On voit tout sur le téléphone, c'est super impressionnant et très efficace. Je ne peux plus m'en passer.", date: "15 Janvier 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Adfa80fcdb5a449da8fac47b4865ed897y.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A7fa799341c33470691ff6896a778637e7.jpg_960x960q75.jpg_.avif"] },
+      { id: 102, name: "Fatou K.", location: "Thiès", rating: 5, comment: "Je n'en attendais pas grand-chose et j'ai été bluffée ! Mon seul regret ? Ne pas l'avoir découvert plus tôt ! 😄", date: "22 Janvier 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Abbf64d746519490da166fae881cb16c2G.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2595d43860384bc6affdfad2c7d3b1e3r.jpg_960x960q75.jpg_.avif"] },
+      { id: 103, name: "Abdoulaye S.", location: "Saint-Louis", rating: 5, comment: "Bon produit... je le recommande et la caméra a une bonne résolution.", date: "02 Février 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A4d950cb9143b453c9954dd51df52a865C.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A5199c405c3ae45a7978e5674d2c90b383.jpg_960x960q75.jpg_.avif"] },
+      { id: 104, name: "Ousmane T.", location: "Ziguinchor", rating: 5, comment: "Commande bien emballée. Arrivée le jour prévu. Dispositif pour enlever le cérumen. Parfait, il est super. Il est impeccable. J'en ai déjà commandé deux autres pour ma famille. Je le recommande vivement. 💯 Merci.", date: "10 Février 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A8c05ba610b9e4c39a94983ce52fd71d2e.jpg_960x960q75.jpg_.avif"] },
+      { id: 105, name: "Awa N.", location: "Kaolack", rating: 5, comment: "Je l'ai testé moi-même, tout est parfait, ça fonctionne à merveille. Le téléchargement et l'installation du programme sont très simples.", date: "18 Février 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A385d63cf52d54838ac5fe109c85b704ey.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aa2596ac2e1fe4e2cad79d618d74005dco.jpg_960x960q75.jpg_.avif"] },
+      { id: 106, name: "Seydou B.", location: "Dakar", rating: 5, comment: "Je ne l'ai pas encore essayé, mais ça a l'air bien... j'espère que ça fonctionnera bien.", date: "25 Février 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ac5375ab15bb149179ef9b06d51d2ebfbn.jpg_960x960q75.jpg_.avif"] },
+      { id: 107, name: "Astou C.", location: "Touba", rating: 5, comment: "Conforme à la description et reçu très rapidement.", date: "05 Mars 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A08a17ba948a545819b8d0b311a5145e6r.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2620ecef5b3a4edfab16443d07089904P.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A99fa79fe276d47279b45c5ea4d89bb7b9.jpg_960x960q75.jpg_.avif"] },
+      { id: 108, name: "Moussa S.", location: "Mbour", rating: 5, comment: "Tout est arrivé en bon état, il ne reste plus qu'à l'utiliser.", date: "12 Mars 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A27e455772a114036a36d17362af4d5b7Z.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A5422ab4a9a8d486b8475082dd581fc07q.jpg_960x960q75.jpg_.avif"] },
+      { id: 109, name: "Khady G.", location: "Thiès", rating: 5, comment: "L'article est conforme à sa description.", date: "20 Mars 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ac925be5dc7dd4bd69efafee006df6449h.jpg_960x960q75.jpg_.avif"] },
+      { id: 110, name: "Ibrahima F.", location: "Louga", rating: 5, comment: "Le colis est arrivé en bon état et à la date prévue. Je vais télécharger l'application et la tester. Je recommande le vendeur.", date: "28 Mars 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ad37cb9cbb2b74ff186e91b28c68447ae7.jpg_960x960q75.jpg_.avif"] },
+      { id: 111, name: "Saliou N.", location: "Dakar", rating: 5, comment: "Un appareil très pratique, et la qualité d'image est également très bonne ; facile à utiliser.", date: "05 Avril 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae44ba4fc17704deb92f38d51db8b8752P.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Adadfed9250eb4911b19ea10a485d1256s.jpg_960x960q75.jpg_.avif"] },
+      { id: 112, name: "Nafissatou D.", location: "Saint-Louis", rating: 5, comment: "Je recommande à 100% ! On voit exactement ce qu’on enlève, c’est satisfaisant 😍", date: "12 Avril 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Adf1690ae1edd42f5ba5dc49249825bfaa.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A1730f92cbe6f453f8539aceca4aba889M.jpg_960x960q75.jpg_.avif"] },
+      { id: 113, name: "Cheikh S.", location: "Mbour", rating: 5, comment: "Merci, tout est arrivé en bon état, bien emballé, conforme à ma commande.", date: "19 Avril 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ad3f6e39287a64f7a88b2eb00962839f07.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A9d2458027f7446fc985a807782c96c71W.jpg_960x960q75.jpg_.avif"] },
+      { id: 114, name: "Fatou J.", location: "Thiès", rating: 5, comment: "Reçu rapidement et en bon état, la connexion à l'application n'a pas été très facile, mais elle a fini par fonctionner... merci au vendeur.", date: "26 Avril 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aaa14ad91eb924f2ea550e7e15fa1e318a.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A7944213bbabc46a380cd15d8a6ba9feeI.jpg_960x960q75.jpg_.avif"] },
+      { id: 115, name: "Moussa G.", location: "Dakar", rating: 5, comment: "Produit indispensable à la maison. Toute la famille l’utilise maintenant !", date: "03 Mai 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2f813da4311d4edfa750a3f0a50c41c5a.jpg_960x960q75.jpg_.avif"] },
+      { id: 116, name: "Awa S.", location: "Saint-Louis", rating: 4, comment: "C'est pas cher mais ça marche bien, haha. La qualité d'image est un peu décevante, mais on voit les oreilles.", date: "10 Mai 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/S88d82b14f766435b802a8811fc016eb35.jpg_960x960q75.jpg_.avif"] },
+      { id: 117, name: "Omar D.", location: "Ziguinchor", rating: 5, comment: "J’ai économisé des visites chez le médecin grâce à ça. Hyper pratique.", date: "17 Mai 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Scd4a2638dd134966bc2211cdcc86f91dD.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Se8c8bca25378407d84882711aec61caca.jpg_960x960q75.jpg_.avif"] },
+      { id: 118, name: "Bineta N.", location: "Kaolack", rating: 5, comment: "Il est facile à utiliser et fonctionne bien avec la connexion.", date: "24 Mai 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Sa6bca869f08e474faab0d5f932399e2b5.jpg_960x960q75.jpg_.avif"] },
+      { id: 119, name: "Abdou K.", location: "Mbour", rating: 5, comment: "Est-ce vraiment possible de l'avoir à un prix aussi bas ? 😭 C'est vraiment incroyable ! J'avais l'impression de voir tous les pores de ma peau, non, vraiment !", date: "01 Juin 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Sd8c689bbf72f4fae8ae764b9a8a339ad6.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Saff963dc3fd04bbab5408ccab522244bG.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Seed62a3726a542f58aac6ec0a2a96b13V.jpg_960x960q75.jpg_.avif"] },
+      { id: 120, name: "Mariama L.", location: "Touba", rating: 5, comment: "Produit d'excellente qualité, très fonctionnel", date: "08 Juin 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A8e4f8ce80aab47bab47ba680737235e40.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A45f1bebd59b0446189b71c592bba8d3a6.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2706c118f7794223b8c7e4275047db51I.jpg_960x960q75.jpg_.avif"] },
+      { id: 121, name: "Ibrahima F.", location: "Louga", rating: 5, comment: "Bien reçu, il ne reste plus qu'à le tester, il semble complet.", date: "15 Juin 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae4f928425073491bbc52a3c2cc6d92c5H.jpg_960x960q75.jpg_.avif"] },
+      { id: 122, name: "Khady M.", location: "Richard-Toll", rating: 5, comment: "Colis reçu en bon état et fonctionnel. J'en suis satisfait.", date: "22 Juin 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Af1df0d19b630459ea764530ee5d94d05d.jpg_960x960q75.jpg_.avif"] },
+      { id: 123, name: "Pape T.", location: "Kolda", rating: 5, comment: "Parfait, c'est magnifique.", date: "29 Juin 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A5b9a6164604e466ea071fc2abb496905z.jpg_960x960q75.jpg_.avif"] },
+      { id: 124, name: "Cheikh S.", location: "Dakar", rating: 5, comment: "C'est vraiment agréable. Après une utilisation prolongée, une légère sensation de chaleur se fait sentir, mais c'est tout à fait normal.", date: "10 Juillet 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/S292c2cfd3e6d4c868bda0a27ecfeed65b.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Af5bab2e357d84aeaa74ca54cc8b07990l.jpg_960x960q75.jpg_.avif"] },
+      { id: 125, name: "Seynobu J.", location: "Thiès", rating: 5, comment: "C'est formidable que le kit comprenne une variété d'outils.", date: "20 Juillet 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A8da3d7966c9d47f4b3de5f14bf7e4183h.jpg_960x960q75.jpg_.avif"] },
+      { id: 126, name: "Nafissatou P.", location: "Saint-Louis", rating: 5, comment: "Très bien ! le livreur est arrivé en moins de 45 minutes", date: "30 Juillet 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A0e18191a26b1460985f21ced6b516d1ab.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae5dc468545ba4212ae9fba3b20d2014fA.jpg_960x960q75.jpg_.avif"] },
+      { id: 127, name: "Ousmane B.", location: "Ziguinchor", rating: 5, comment: "Très bon produit, l'image est parfaitement claire (10/10).", date: "05 Août 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A256c8be2cff04e9a9f1051a47675d296x.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Abd5ca4088df74ac592e32c0e82fb7bc6a.jpg_960x960q75.jpg_.avif"] },
+      { id: 128, name: "Saliou G.", location: "Kaolack", rating: 5, comment: "Très bon produit, il faut juste prendre le coup de main au début mais après c’est top.", date: "15 Août 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A0b2884055f764cbe8c8877bd170c087bt.jpg_960x960q75.jpg_.avif"] },
+      { id: 129, name: "Nogaye C.", location: "Touba", rating: 5, comment: "Je suis vraiment surpris, excellent produit : utile et moins cher.", date: "25 Août 2025", images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A95f372c3593243bd8770803619b323d8q.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A920dd6f70d274f4c875002701462ac31N.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Acc8c6330cadb4b1b9078f90a7819742fF.jpg_960x960q75.jpg_.avif"] }
     ]
   },
   {
@@ -504,9 +504,9 @@ const REVIEWS = [
     comment: "La connexion au téléphone s'est faite sans problème. Franchement, l'appareil est agréable à prendre en main : sa forme et son poids sont similaires à ceux d'un marqueur.",
     date: "25 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aceecc52189bf42e08a92d2a98f6cb99eC.jpg_400x400q50.jpg",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ae322209a1588492da5a303df9b16f986Y.jpg_400x400q50.jpg",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A29cc09ce296440bfaa572b4f79a10207g.jpg_400x400q50.jpg"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aceecc52189bf42e08a92d2a98f6cb99eC.jpg_400x400q50.jpg",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae322209a1588492da5a303df9b16f986Y.jpg_400x400q50.jpg",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A29cc09ce296440bfaa572b4f79a10207g.jpg_400x400q50.jpg"
     ],
     productName: "Kit de Nettoyeur d’Oreille ✨"
   },
@@ -518,8 +518,8 @@ const REVIEWS = [
     comment: "Facile à installer, contrairement à d'autres endoscopes filaires qui n'ont jamais fonctionné correctement sur mon téléphone (trop ancien pour l'application).",
     date: "18 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A3ec9aa8356a9442784f038f2d28c1f32s.jpg_400x400q50.jpg",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A8ee35e6959b64921b54ff96250f834ccQ.jpg_400x400q50.jpg"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A3ec9aa8356a9442784f038f2d28c1f32s.jpg_400x400q50.jpg",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A8ee35e6959b64921b54ff96250f834ccQ.jpg_400x400q50.jpg"
     ],
     productName: "Kit de Nettoyeur d’Oreille ✨"
   },
@@ -531,7 +531,7 @@ const REVIEWS = [
     comment: "Le produit remplit parfaitement sa fonction, j'en suis très satisfait, même s'il nécessite un peu de pratique car il est difficile à manier lors de la première utilisation.",
     date: "10 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A5926c8e65acd46819d5743ff9a00b8ffv.jpg_960x960q75.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A5926c8e65acd46819d5743ff9a00b8ffv.jpg_960x960q75.jpg_.avif"
     ],
     productName: "Kit de Nettoyeur d’Oreille ✨"
   },
@@ -543,10 +543,10 @@ const REVIEWS = [
     comment: "Très bon produit, vraiment excellent, l'appareil photo est excellent, j'en suis très satisfait, je l'ai beaucoup aimé.",
     date: "02 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A334981f9f48b49869ad3c91e75dd9244b.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Abf1b72cc43f746fda3be69e4187fb0caf.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A7a832c96d89044ccbd4e9a73e3f36e28l.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A363fb572fd2b4382adbcabf827d84b91q.jpg_960x960q75.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A334981f9f48b49869ad3c91e75dd9244b.jpg_960x960q75.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Abf1b72cc43f746fda3be69e4187fb0caf.jpg_960x960q75.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A7a832c96d89044ccbd4e9a73e3f36e28l.jpg_960x960q75.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A363fb572fd2b4382adbcabf827d84b91q.jpg_960x960q75.jpg_.avif"
     ],
     productName: "Kit de Nettoyeur d’Oreille ✨"
   },
@@ -557,7 +557,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Je l’ai testé après avoir vu une pub… et honnêtement surprise 😳 Ma peau est beaucoup plus propre dès la première utilisation.",
     date: "14 Janvier 2026",
-    image: "https://ae-pic-a1.aliexpress-media.com/kf/S4ad1f9d80a334ede8e248c1fd885bcaay.jpg_400x400q50.jpg_.avif",
+    image: "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/S4ad1f9d80a334ede8e248c1fd885bcaay.jpg_400x400q50.jpg_.avif",
     productName: "Green Mask Stick | Masque Purifiant 🌱"
   },
   {
@@ -567,7 +567,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Après environ 15 minutes d'application, rincez à l'eau claire. La peau est rafraîchie et nette, les pores respirent et les points noirs sont visiblement réduits.",
     date: "28 Janvier 2026",
-    image: "https://ae-pic-a1.aliexpress-media.com/kf/Sb9efa017c20d474db186cb9741a32e34i.jpg_400x400q50.jpg_.avif",
+    image: "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Sb9efa017c20d474db186cb9741a32e34i.jpg_400x400q50.jpg_.avif",
     productName: "Green Mask Stick | Masque Purifiant 🌱"
   },
   {
@@ -577,7 +577,7 @@ const REVIEWS = [
     rating: 5,
     comment: "J'en ai acheter 3 et j’étais sceptique… mais après 2-3 utilisations, j’ai vraiment vu une différence.",
     date: "12 Février 2026",
-    image: "https://ae-pic-a1.aliexpress-media.com/kf/Sd18fb08f3369496b80dbf06becba161fO.jpg_400x400q50.jpg_.avif",
+    image: "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Sd18fb08f3369496b80dbf06becba161fO.jpg_400x400q50.jpg_.avif",
     productName: "Green Mask Stick | Masque Purifiant 🌱"
   },
   {
@@ -587,7 +587,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Les points noirs non irritants pour la peau disparaîtront d'eux-mêmes, et après le lavage, les pores seront moins nombreux et plus resserrés.",
     date: "25 Février 2026",
-    image: "https://ae-pic-a1.aliexpress-media.com/kf/S0f3f7785497b452fbb766e5a9c353f47j.jpg_400x400q50.jpg_.avif",
+    image: "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/S0f3f7785497b452fbb766e5a9c353f47j.jpg_400x400q50.jpg_.avif",
     productName: "Green Mask Stick | Masque Purifiant 🌱"
   },
   {
@@ -598,8 +598,8 @@ const REVIEWS = [
     comment: "Je recommande vivement ce vendeur. Le produit est conforme à sa description. Je suis ravie d'avoir reçu ma commande.",
     date: "15 Janvier 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Af8f1fa024cb24e4f8dad3e9f78d8b812n.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A59eedd256aab409d8ff717957bcda6812.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Af8f1fa024cb24e4f8dad3e9f78d8b812n.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A59eedd256aab409d8ff717957bcda6812.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -611,7 +611,7 @@ const REVIEWS = [
     comment: "Livraison rapide, produit conforme à la description, je recommande ce magasin à 100%",
     date: "02 Février 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Acc15ac50cc1540dea9f7974fe0cdf1c54.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Acc15ac50cc1540dea9f7974fe0cdf1c54.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -623,8 +623,8 @@ const REVIEWS = [
     comment: "Le masque pénètre bien et lisse la peau. Sa texture collante est désagréable, il dessèche et tiraille la peau, ce qui est désagréable. Mais il est efficace.",
     date: "20 Février 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Affe539b9d50b41a183d756b793b1a4a35.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A43c364dd48174d5982c4164b4ef2fddbg.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Affe539b9d50b41a183d756b793b1a4a35.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A43c364dd48174d5982c4164b4ef2fddbg.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -636,8 +636,8 @@ const REVIEWS = [
     comment: "Ça a l'air bien. Je ne l'ai pas encore utilisé, mais j'ai hâte de l'essayer. À porter la nuit, il s'enlève le matin.",
     date: "10 Mars 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aff57d494dc7e4adb9f640129e8e66f09J.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A687c16c24545442cb0593935e49fd6d4j.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aff57d494dc7e4adb9f640129e8e66f09J.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A687c16c24545442cb0593935e49fd6d4j.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -649,8 +649,8 @@ const REVIEWS = [
     comment: "Ce que j’ai remarqué, c’est surtout l’hydratation au réveil. Et ça fait déjà beaucoup.",
     date: "28 Mars 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A4c8132bf8ba64818a3c82a79badf17c5Z.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A00c97c4178ff4355b9c10517217913cbP.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A4c8132bf8ba64818a3c82a79badf17c5Z.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A00c97c4178ff4355b9c10517217913cbP.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -662,8 +662,8 @@ const REVIEWS = [
     comment: "Elle n'a pas une odeur agréable. Le masque en gel est un peu liquide, mais l'application est très facile. Il est efficace contre l'acné. On ne ressent aucune gêne pendant le sommeil.",
     date: "12 Avril 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A34b2c5574135456db450aee3fe8f8e88z.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A32519b03394744b9a96d69b002d0866aj.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A34b2c5574135456db450aee3fe8f8e88z.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A32519b03394744b9a96d69b002d0866aj.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -675,7 +675,7 @@ const REVIEWS = [
     comment: "Je ne suis pas fan des routines longues… là, juste appliquer et dormir. Et pourtant, le résultat est là.",
     date: "25 Avril 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A687c16c24545442cb0593935e49fd6d4j.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A687c16c24545442cb0593935e49fd6d4j.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -687,7 +687,7 @@ const REVIEWS = [
     comment: "Je l’utilise 2 à 3 fois par semaine… c’est devenu un bon réflexe pour garder une peau propre.",
     date: "05 Mai 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A890c37488c6841389ec543f9299606b3S.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A890c37488c6841389ec543f9299606b3S.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -699,7 +699,7 @@ const REVIEWS = [
     comment: "Livraison rapide, produit conforme à la description, le stick est très facile à utiliser !",
     date: "20 Mai 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A637134955b7b47eab8629f3fc7a663fbo.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A637134955b7b47eab8629f3fc7a663fbo.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -711,8 +711,8 @@ const REVIEWS = [
     comment: "Je l’utilise les soirs où ma peau est “fatiguée”… et à chaque fois, le matin est une bonne surprise.",
     date: "05 Juin 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Acd77d7b07ade45eeaba65793a4baf277k.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A48ac39c10fcd44978e44d517b946a070r.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Acd77d7b07ade45eeaba65793a4baf277k.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A48ac39c10fcd44978e44d517b946a070r.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -724,7 +724,7 @@ const REVIEWS = [
     comment: "Bon produit, j'ai hâte de l'essayer ce soir sur mes points noirs.",
     date: "18 Juin 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A5bbec6e41fbd41b992834d26ae7e58664.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A5bbec6e41fbd41b992834d26ae7e58664.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -736,7 +736,7 @@ const REVIEWS = [
     comment: "Un produit simple, sans promesses exagérées. Le stick est top pour ne pas s'en mettre partout.",
     date: "30 Juin 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Afab0f245df5a4f36a284e5528c28d02cK.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Afab0f245df5a4f36a284e5528c28d02cK.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -748,7 +748,7 @@ const REVIEWS = [
     comment: "Avant : manque d’éclat\nAprès : peau plus lumineuse, sans effet miracle",
     date: "12 Juillet 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A93c3cfd0ff9c45fcafe25b51c1391cbaY.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A93c3cfd0ff9c45fcafe25b51c1391cbaY.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
@@ -759,7 +759,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Un produit simple, sans promesses exagérées. Le stick est top pour ne pas s'en mettre partout.",
     date: "12 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A3d9972220e274e94915944e3db0ddcaal.jpg_400x400q50.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A3d9972220e274e94915944e3db0ddcaal.jpg_400x400q50.jpg_.avif"],
     productName: "Kit de Nettoyeur d’Oreille ✨"
   },
   {
@@ -770,8 +770,8 @@ const REVIEWS = [
     comment: "J'adore ce savon ! Il m'a permis d'obtenir un teint uniforme et de rendre ma peau douce. Aucune sensation de brûlure ni d'irritation. Un vrai bienfait pour la peau.",
     date: "18 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A1e50a5e1109f44868c59388cebecde92J.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A0b3c90f7b66545e7813d8bb3da371b4aS.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A1e50a5e1109f44868c59388cebecde92J.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A0b3c90f7b66545e7813d8bb3da371b4aS.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -783,7 +783,7 @@ const REVIEWS = [
     comment: "J'ai reçu les savons au curcuma et au citron en bon état, je remercie le vendeur et le recommande vivement.",
     date: "05 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A48c57f9544884e668815583b63102e18F.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A48c57f9544884e668815583b63102e18F.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -795,8 +795,8 @@ const REVIEWS = [
     comment: "Reçu très rapidement. J'ai très hâte de l'essayer. Le savon est plus petit que prévu, je recommande donc d'en acheter plusieurs...",
     date: "25 Mars 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A2fd0f2bdb55a4ad58fc8cc4e0b60101d6.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Abefff08ab1a84861b03f283d42a93fb7o.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2fd0f2bdb55a4ad58fc8cc4e0b60101d6.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Abefff08ab1a84861b03f283d42a93fb7o.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -808,8 +808,8 @@ const REVIEWS = [
     comment: "Je recommande de les utiliser car elles procurent une sensation de propreté et aident à assécher les petites plaies dues au psoriasis, offrant un soulagement léger.",
     date: "10 Mars 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A62670bf5e1a64446a72dfe486d73246dB.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A1d24e45657f54860b727d04486ecccedw.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A62670bf5e1a64446a72dfe486d73246dB.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A1d24e45657f54860b727d04486ecccedw.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -821,7 +821,7 @@ const REVIEWS = [
     comment: "Très bon savon, il sent bon et donne de la brillance.",
     date: "01 Mars 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A737640e4c46c4dbaa328cb4155f789c7u.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A737640e4c46c4dbaa328cb4155f789c7u.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -833,8 +833,8 @@ const REVIEWS = [
     comment: "C'est absolument merveilleux, ça donne au visage un éclat radieux. Je l'ai tellement adoré que je le recommande vivement. 🤩🤩",
     date: "15 Février 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A7d2f723b9fd940ff9c9590cb63200d54y.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A2a75152bc16149d988da2a860bc08135r.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A7d2f723b9fd940ff9c9590cb63200d54y.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2a75152bc16149d988da2a860bc08135r.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -846,7 +846,7 @@ const REVIEWS = [
     comment: "C'est super, je l'ai utilisé et ça sent tellement bon, c'est vraiment doux pour la peau et je n'ai eu aucun problème jusqu'à présent.",
     date: "01 Février 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A2b834f42935e4eb2be7f2b13817087e6r.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2b834f42935e4eb2be7f2b13817087e6r.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -858,7 +858,7 @@ const REVIEWS = [
     comment: "Reçu en bon état, il sent fortement le gingembre mais sinon tout est propre. Hydratez bien votre peau après utilisation, même si elle est douce au toucher.",
     date: "15 Janvier 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Adf74c57f18a64a99b2653e74a0877200O.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Adf74c57f18a64a99b2653e74a0877200O.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -870,8 +870,8 @@ const REVIEWS = [
     comment: "Génial ! Ma commande est arrivée très rapidement et ces savons subliment ma peau jour après jour. Je les recommande vraiment.",
     date: "01 Janvier 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A16ac8551df3f4336b7a741bed78424c2I.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Af301934fd4a34b78bfde719b21c9dc4fC.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A16ac8551df3f4336b7a741bed78424c2I.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Af301934fd4a34b78bfde719b21c9dc4fC.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -883,7 +883,7 @@ const REVIEWS = [
     comment: "Ce savon en barre est excellent pour le visage, surtout s'il est gras : il le rend doux et éclatant et atténue les taches brunes.",
     date: "15 Décembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aab55a82286b54516a37281a78bf13711Z.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aab55a82286b54516a37281a78bf13711Z.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -895,9 +895,9 @@ const REVIEWS = [
     comment: "Ce savon sent tellement bon que c'est le seul type de savon que j'utilise réellement.",
     date: "01 Décembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A2be32d945b064f8892870ace4f680c59N.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A7d499d6aef0b4049a16fd84d7dd60ef9P.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A4fa3e043e0f643b3826e54e18e8b1c59d.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2be32d945b064f8892870ace4f680c59N.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A7d499d6aef0b4049a16fd84d7dd60ef9P.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A4fa3e043e0f643b3826e54e18e8b1c59d.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -909,8 +909,8 @@ const REVIEWS = [
     comment: "Je l’ai testé sans grande attente… après quelques jours, j’ai remarqué que mon teint était plus clair et uniforme. J’ai continué, et maintenant je ne peux plus m’en passer.",
     date: "15 Novembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A1b06faa71fdf4fccb9ee4a306b326be8N.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Afd246d26180b4745afca643d43789d37B.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A1b06faa71fdf4fccb9ee4a306b326be8N.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Afd246d26180b4745afca643d43789d37B.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -922,7 +922,7 @@ const REVIEWS = [
     comment: "Produit génial, sent bon et laisse une agréable sensation après utilisation… Effet placebo peut-être, mais peu importe… je l’aime et je le recommande",
     date: "25 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aa7cc4b2770cd40a899fa311147397f01v.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aa7cc4b2770cd40a899fa311147397f01v.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -934,7 +934,7 @@ const REVIEWS = [
     comment: "J'adore ce savon. Ma peau est plus nette et incroyablement douce !",
     date: "18 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A3203aff5287a4b1da9234d8bca007cf8r.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A3203aff5287a4b1da9234d8bca007cf8r.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -946,7 +946,7 @@ const REVIEWS = [
     comment: "Mes taches brunes et mon acné ont disparu en moins de 4 semaines.",
     date: "10 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aa27ca3a0fcbf4abb96c2d8f1821032bf6.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aa27ca3a0fcbf4abb96c2d8f1821032bf6.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -958,8 +958,8 @@ const REVIEWS = [
     comment: "Très efficace pour les taches brunes",
     date: "02 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A79b1f058420e456c8153b7debb0ef5578.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ae1ba517d1e974b368346a543b60548d6N.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A79b1f058420e456c8153b7debb0ef5578.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae1ba517d1e974b368346a543b60548d6N.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -971,9 +971,9 @@ const REVIEWS = [
     comment: "Super !! Première douche avec ce savon… sensation de peau propre incroyable. Au fil des utilisations, ma peau est devenue plus lumineuse ✨",
     date: "01 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ac6a440b026f747159497a67e3da3b607N.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A2ed2f8eec65b46449c0a6440626fb1c6D.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ae0d470f4871b40a6932ff85ed7d3d044l.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ac6a440b026f747159497a67e3da3b607N.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2ed2f8eec65b46449c0a6440626fb1c6D.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae0d470f4871b40a6932ff85ed7d3d044l.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -985,7 +985,7 @@ const REVIEWS = [
     comment: "Comme toujours, parfait ! Livraison ultra-rapide, qualité irréprochable, vendeur au top… Je repasserai commande avec plaisir.",
     date: "15 Mars 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A4228f1954df24f3a9189f388106703b28.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A4228f1954df24f3a9189f388106703b28.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Savon au Curcuma | Purifiant 🚿"
   },
@@ -997,8 +997,8 @@ const REVIEWS = [
     comment: "Le port USB-C est pratique. Même pour une barbe fine, la coupe est impeccable. De plus, son format compact le rend facile à transporter.",
     date: "14 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/S6f9685a7537f407597a680e5006b862e2.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Sbe677021ae754d7abef72edccac5b405c.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/S6f9685a7537f407597a680e5006b862e2.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Sbe677021ae754d7abef72edccac5b405c.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1011,7 +1011,7 @@ const REVIEWS = [
     comment: "En voyage, c’est devenu mon indispensable. Petit, discret, mais super efficace.",
     date: "02 Avril 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/S97ce0623164b41d7bf48b77bb863313b7.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/S97ce0623164b41d7bf48b77bb863313b7.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1023,7 +1023,7 @@ const REVIEWS = [
     comment: "Je ne pensais pas que ça raserait aussi bien vu la taille… grosse surprise.",
     date: "25 Mars 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/S5c962f25bf994852b5223690315cb913s.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/S5c962f25bf994852b5223690315cb913s.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1035,7 +1035,7 @@ const REVIEWS = [
     comment: "Un bouton, ça démarre, et ça fait le job. Simple et efficace.",
     date: "10 Mars 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A9f00fe85c9534353b613dc018c36b7f2m.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A9f00fe85c9534353b613dc018c36b7f2m.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1047,7 +1047,7 @@ const REVIEWS = [
     comment: "Cet article fonctionne très bien compte tenu de sa légèreté. Je l'ai utilisé dès sa réception ! Il sera très pratique pour mon voyage car je n'aurai pas besoin d'emporter mon rasoir japonais coûteux.",
     date: "28 Février 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aeeee7ce286c6472b9e3491e2d941c755u.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aeeee7ce286c6472b9e3491e2d941c755u.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1059,7 +1059,7 @@ const REVIEWS = [
     comment: "Excellent produit, je le recommande 😏",
     date: "14 Février 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A0a5194fa2e7140c9a2bb625572d87c19v.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A0a5194fa2e7140c9a2bb625572d87c19v.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1071,7 +1071,7 @@ const REVIEWS = [
     comment: "Très utile et pratique, il est arrivé très rapidement, merci beaucoup.",
     date: "01 Février 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A03da66aaf549432cb13692742cda7fb22.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A03da66aaf549432cb13692742cda7fb22.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1083,7 +1083,7 @@ const REVIEWS = [
     comment: "J'ai reçu 3 lots. Seuls 2 fonctionnent ; le lot bleu est défectueux. Je souhaite donc demander un retour et un remboursement pour ce lot.",
     date: "15 Janvier 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ad053e5c0698b4850b26c2d838ec6d619C.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ad053e5c0698b4850b26c2d838ec6d619C.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1095,7 +1095,7 @@ const REVIEWS = [
     comment: "C'est un super petit rasoir. Rechargeable. Utilisable partout. Il glisse parfaitement sur la peau, sans provoquer d'irritations ni de rougeurs. Livré avec tout le nécessaire pour le nettoyer : un petit chargeur USB-C et une petite brosse.",
     date: "01 Janvier 2026",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A378d452b69b4456eaffae29b5499549dK.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A378d452b69b4456eaffae29b5499549dK.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1107,7 +1107,7 @@ const REVIEWS = [
     comment: "Livraison rapide. Bonne qualité. Fonctionne sur batterie interne. Livré chargé. Poids : 213 grammes. Rasage impeccable. Excellent rapport qualité-prix, emballage soigné, aucun dommage ni casse, livraison rapide.",
     date: "15 Décembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Abc3478cf063e43d3901f3d3b246e2fbaV.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Abc3478cf063e43d3901f3d3b246e2fbaV.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1119,7 +1119,7 @@ const REVIEWS = [
     comment: "Excellent rasoir. Il fonctionne à merveille. Rasoir robuste et fonctionnel. Prix juste. En seulement 2 minutes, je me suis rasé comme un rasoir.",
     date: "01 Décembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A15e5b41d8d374cc08bd1207a296e27c6i.png_400x400.png_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A15e5b41d8d374cc08bd1207a296e27c6i.png_400x400.png_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1131,7 +1131,7 @@ const REVIEWS = [
     comment: "Excellent ! Franchement, j'ai été surpris par son tranchant. J'en ai déjà commandé un deuxième ; le premier pour moi, le second pour mon père. Je suis pleinement satisfait de son fonctionnement",
     date: "15 Novembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A498ebb9d48744cd390b4d85309470689v.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A498ebb9d48744cd390b4d85309470689v.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1143,8 +1143,8 @@ const REVIEWS = [
     comment: "Parfait pour les retouches rapides. Plus besoin de sortir tout le matériel.",
     date: "01 Novembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aa78f7b6e67514e90b8e9d5937560de35T.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A0ee80a6d10e94634a350de4d2670cbc81.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aa78f7b6e67514e90b8e9d5937560de35T.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A0ee80a6d10e94634a350de4d2670cbc81.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1156,7 +1156,7 @@ const REVIEWS = [
     comment: "J'avais besoin d'un rasoir électrique, et celui-ci semble offrir un excellent rapport qualité-prix. C'est un rasoir très confortable, qui nettoie bien et est facile à utiliser.",
     date: "15 Octobre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Af9675f2a43e449dea31a431c2b0fcb0b8.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Af9675f2a43e449dea31a431c2b0fcb0b8.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1168,7 +1168,7 @@ const REVIEWS = [
     comment: "Je suis très satisfaite du rasoir ; il fonctionne parfaitement, se recharge rapidement et est extrêmement efficace. J’ai vraiment tout aimé.",
     date: "01 Octobre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ad23c56ed52394192af4804ba90c29005q.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ad23c56ed52394192af4804ba90c29005q.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1180,7 +1180,7 @@ const REVIEWS = [
     comment: "Compact mais puissant. Idéal pour garder une barbe propre à tout moment.",
     date: "15 Septembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ac975a845fe8c4db697ade3fc7d68b51bM.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ac975a845fe8c4db697ade3fc7d68b51bM.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1192,9 +1192,9 @@ const REVIEWS = [
     comment: "C'est un bon rapport qualité-prix et il me va parfaitement ! Malgré son prix abordable, il est vraiment intéressant.",
     date: "01 Septembre 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aff02b4ef3a07421f9eaab3ff9612ec9ee.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A26ab045e3ed94b59af9b1a4b836f4734G.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A0364d3750f7042c6916aa4a66be387853.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aff02b4ef3a07421f9eaab3ff9612ec9ee.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A26ab045e3ed94b59af9b1a4b836f4734G.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A0364d3750f7042c6916aa4a66be387853.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1206,10 +1206,10 @@ const REVIEWS = [
     comment: "Le produit est arrivé en parfait état et très rapidement. Il a dépassé mes attentes. Excellent rasoir, fabrication de haute qualité et rasage impeccable.",
     date: "15 Août 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A2d767a3381004ceba2ced52e7e0a8de29.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aa9c278e0267540d3b242565b001ff9b7C.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ad534ab8727c34beaa01304cdeb163fc6J.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A418c08a2424841ac95e0658528cd0710D.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2d767a3381004ceba2ced52e7e0a8de29.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aa9c278e0267540d3b242565b001ff9b7C.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ad534ab8727c34beaa01304cdeb163fc6J.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A418c08a2424841ac95e0658528cd0710D.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1221,8 +1221,8 @@ const REVIEWS = [
     comment: "Produit de haute qualité. Merci au fabricant, merci au vendeur",
     date: "01 Août 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A8dd97f29f6ea4f1ea66adb49e96e3cbdc.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A8eaf3d3b7403475992c89af3301a6d2e8.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A8dd97f29f6ea4f1ea66adb49e96e3cbdc.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A8eaf3d3b7403475992c89af3301a6d2e8.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1234,8 +1234,8 @@ const REVIEWS = [
     comment: "Charge rapide, utilisation facile… exactement ce qu’il me fallait.",
     date: "15 Juillet 2025",
     images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A13357be99cc74286913b3eab061aa0eeQ.jpg_400x400q50.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A5cafc2b4b0c54920a1be2e5da792aa40P.jpg_400x400q50.jpg_.avif"
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A13357be99cc74286913b3eab061aa0eeQ.jpg_400x400q50.jpg_.avif",
+      "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A5cafc2b4b0c54920a1be2e5da792aa40P.jpg_400x400q50.jpg_.avif"
     ],
     productName: "Rasoir Électrique Tête Rotative 🚀"
   },
@@ -1246,7 +1246,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Je l’ai appliqué un soir où ma peau était vraiment fatiguée… Le matin, en me regardant dans le miroir, j’ai eu ce petit moment “wow”. Peau plus fraîche, plus douce… ça change tout.",
     date: "05 Août 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Afb8b763150f0407ea349df5f8282a116A.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Afb8b763150f0407ea349df5f8282a116A.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1256,7 +1256,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Après une longue journée, je l’ai mis sans trop y croire. Au réveil, ma peau était comme reposée… comme si j’avais dormi 10h 😴✨",
     date: "19 Août 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A02f2b259bc094cac8f6b0f65ea5a9407L.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Ac0f25054589a453fbd46fd31a620f8a9J.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A02f2b259bc094cac8f6b0f65ea5a9407L.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ac0f25054589a453fbd46fd31a620f8a9J.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1266,7 +1266,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Ce que j’aime, c’est cette sensation au réveil… peau souple, douce, comme revitalisée.",
     date: "02 Septembre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A531812e5e38c49fba44f5e2bda64f505D.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A531812e5e38c49fba44f5e2bda64f505D.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1276,7 +1276,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Merci, je suis contente de la crème.",
     date: "16 Septembre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Aa7e84e60a8184285a9e39d8f5b570fe3s.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A21e665f11e674e818b22b7f917180e6eO.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aa7e84e60a8184285a9e39d8f5b570fe3s.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A21e665f11e674e818b22b7f917180e6eO.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1286,7 +1286,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Première utilisation un dimanche soir… lundi matin, peau nette et fraîche. Ça commence bien la semaine 😄",
     date: "30 Septembre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ae1185fee11364533a37eabb44db8d327P.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Ac8e6f50aef054efbbb14390ef0fa1a79D.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Ada99d784c35b455c852a1fda94b5717cI.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae1185fee11364533a37eabb44db8d327P.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ac8e6f50aef054efbbb14390ef0fa1a79D.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ada99d784c35b455c852a1fda94b5717cI.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1296,7 +1296,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Ce n’est pas juste un masque… c’est vraiment un moment pour soi, et ça se voit sur la peau.",
     date: "14 Octobre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A7e049ab042e24a4ab700fd06ebdf1f5aU.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A7e049ab042e24a4ab700fd06ebdf1f5aU.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1306,7 +1306,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Je l’ai testé par curiosité… Au réveil, peau plus douce. Pas magique, mais clairement agréable.",
     date: "28 Octobre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A51849327f6c24137a51ae1ff07ed7320C.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A31966307a95b4c7e9e928fe9d42adb1el.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A51849327f6c24137a51ae1ff07ed7320C.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A31966307a95b4c7e9e928fe9d42adb1el.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1316,7 +1316,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Je l’utilise 2 à 3 fois par semaine… c’est devenu un bon réflexe pour garder une peau propre.",
     date: "11 Novembre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Aba9f80e265e4479abe80e447fb2066319.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A2f4a8f6423b8404d8b45062097154fd4T.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aba9f80e265e4479abe80e447fb2066319.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2f4a8f6423b8404d8b45062097154fd4T.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1326,7 +1326,7 @@ const REVIEWS = [
     rating: 4,
     comment: "Je viens de commencer à l'utiliser. Je donnerai plus de détails après quelques jours d'utilisation.",
     date: "25 Novembre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A23e3e7f4af6c4f238ebf6823cc463656I.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/A435406b39dd1405aba1aed914dd0daeeU.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A23e3e7f4af6c4f238ebf6823cc463656I.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A435406b39dd1405aba1aed914dd0daeeU.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1336,7 +1336,7 @@ const REVIEWS = [
     rating: 4,
     comment: "Je ne l'ai pas encore utilisé et j'espère qu'il fonctionnera aussi bien que sur la photo. J'adore l'emballage.",
     date: "09 Décembre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A2f582911615845c9b1d0329493c71dfa4.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2f582911615845c9b1d0329493c71dfa4.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1346,7 +1346,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Un bon produit pour compléter une routine, surtout quand la peau est fatiguée.",
     date: "23 Décembre 2025",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A353714e77d804c59a4c828412c37bd49e.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Ae5de56fec71748828281cf0d4b424fa2i.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A353714e77d804c59a4c828412c37bd49e.jpg_960x960q75.jpg_.avif", "https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae5de56fec71748828281cf0d4b424fa2i.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1356,7 +1356,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Très bien. Il suffit d'essayer et de voir.",
     date: "06 Janvier 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A0790d6949d0447d9bec88c7f19c967f8h.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A0790d6949d0447d9bec88c7f19c967f8h.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1366,7 +1366,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Une peau tellement plus hydratée au réveil, j'adore l'effet fraîcheur.",
     date: "20 Janvier 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A353714e77d804c59a4c828412c37bd49e.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A353714e77d804c59a4c828412c37bd49e.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1376,7 +1376,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Très bon produit, je recommande vivement pour les peaux fatiguées.",
     date: "03 Février 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A2f582911615845c9b1d0329493c71dfa4.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A2f582911615845c9b1d0329493c71dfa4.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1386,7 +1386,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Ma routine de nuit est complète maintenant. Je ne m'en passe plus.",
     date: "17 Février 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Aba9f80e265e4479abe80e447fb2066319.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aba9f80e265e4479abe80e447fb2066319.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1396,7 +1396,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Efficace et agréable sur la peau. Livraison rapide à Kaolack.",
     date: "03 Mars 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A51849327f6c24137a51ae1ff07ed7320C.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A51849327f6c24137a51ae1ff07ed7320C.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1406,7 +1406,7 @@ const REVIEWS = [
     rating: 4,
     comment: "J'ai vu une différence dès la première semaine sur l'éclat de mon teint.",
     date: "17 Mars 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A7e049ab042e24a4ab700fd06ebdf1f5aU.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A7e049ab042e24a4ab700fd06ebdf1f5aU.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1416,7 +1416,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Parfait pour ma peau sèche, elle est beaucoup plus souple maintenant.",
     date: "31 Mars 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ae1185fee11364533a37eabb44db8d327P.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ae1185fee11364533a37eabb44db8d327P.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1426,7 +1426,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Texture incroyable et résultats visibles rapidement. Merci Vintech !",
     date: "10 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Aa7e84e60a8184285a9e39d8f5b570fe3s.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Aa7e84e60a8184285a9e39d8f5b570fe3s.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1436,7 +1436,7 @@ const REVIEWS = [
     rating: 5,
     comment: "Très satisfaite de cet achat. Application facile avec le stick.",
     date: "20 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A531812e5e38c49fba44f5e2bda64f505D.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/A531812e5e38c49fba44f5e2bda64f505D.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
   },
   {
@@ -1446,222 +1446,8 @@ const REVIEWS = [
     rating: 5,
     comment: "Le meilleur masque que j'ai testé jusqu'à présent pour l'hydratation de nuit.",
     date: "26 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ac0f25054589a453fbd46fd31a620f8a9J.jpg_960x960q75.jpg_.avif"],
+    images: ["https://res.cloudinary.com/dpy6oagbm/image/fetch/f_auto,q_auto,w_auto/https://ae-pic-a1.aliexpress-media.com/kf/Ac0f25054589a453fbd46fd31a620f8a9J.jpg_960x960q75.jpg_.avif"],
     productName: "Masque au collagène Lakerin | Crème Exfoliante & Hydratant🌙"
-  },
-  {
-    id: 200,
-    name: "Fanta B.",
-    location: "Dakar",
-    rating: 4,
-    comment: "Je vais d'abord l'essayer, puis je vous donnerai mes impressions.",
-    date: "01 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A00e5b0b319b4462dbd59db9be3c7fb9bJ.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 201,
-    name: "Mariama S.",
-    location: "Saint-Louis",
-    rating: 5,
-    comment: "L'un de mes meilleurs achats cette année 🥰",
-    date: "03 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A070c276c4f4a4d5a903569b2b02163d7n.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 202,
-    name: "Abdou L.",
-    location: "Dakar",
-    rating: 5,
-    comment: "J'en ai pris 3 puisque je connais l'utilité",
-    date: "05 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Ab6c158e1c4e440b7b4b248173e86b002b.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 203,
-    name: "Oumar T.",
-    location: "Thiès",
-    rating: 5,
-    comment: "Cool",
-    date: "08 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A86f97e5bdeb141349a7eadef8061d72eY.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 204,
-    name: "Safiétou D.",
-    location: "Dakar",
-    rating: 5,
-    comment: "La livraison a été hyper rapide j'aime bien ça 😉😉",
-    date: "10 Avril 2026",
-    images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Sc3bb9b3225ae42818c7a523e4786feffk.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Scc33d0788d1d4b8dad215d262f29c724b.jpg_960x960q75.jpg_.avif"
-    ],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 205,
-    name: "Ndèye F.",
-    location: "Rufisque",
-    rating: 3,
-    comment: "Ça ne mousse pas et ça ne laisse pas de sensation d'hydratation. On a l'impression de se frotter le visage avec de la poudre de craie.",
-    date: "12 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Sbf79c1267a6747f995a67cebb47daa57z.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 206,
-    name: "Khadija G.",
-    location: "Dakar",
-    rating: 5,
-    comment: "Ce masque nettoyant est très hydratant, et la crème pour le visage est également très complète. Elle ne dessèche pas la peau. Elle est très rafraîchissante et nettoie efficacement. Mes pores et mes points noirs ont disparu.",
-    date: "15 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Sd1b082e33d494463b3f156f992e049179.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 207,
-    name: "Amina J.",
-    location: "Ziguinchor",
-    rating: 5,
-    comment: "Ce produit sent tellement bon ! Je l'ai essayé hier soir et il a instantanément apaisé ma peau mixte. C'est vraiment agréable.",
-    date: "18 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Sf873173686c6415ca54ead6ce2b98905D.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 208,
-    name: "Balla C.",
-    location: "Dakar",
-    rating: 5,
-    comment: "Maintenant, le visage est très net, les pores sont beaucoup resserrés et le nez ne sécrète plus autant de sébum. La peau est devenue très délicate.",
-    date: "20 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/S16b56d6a4e1c41eb818b2ef7647e4aabY.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 209,
-    name: "Fatou M.",
-    location: "Mbour",
-    rating: 5,
-    comment: "Sa texture est rafraîchissante et elle ne colle pas du tout à l'application ! Aucun effet secondaire pour le moment ! Son utilisation régulière rend ma peau plus lisse !",
-    date: "22 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/S1c68ab68167343129fded363d1b3e4d4o.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 210,
-    name: "Penda K.",
-    location: "Pikine",
-    rating: 5,
-    comment: "À chaque application, de nombreux points noirs et points blancs sont extraits du contour de l'œil, pour un nettoyage des pores en profondeur. Après application, la peau est souple et hydratée.",
-    date: "24 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/S97442b8857b942d1ac0cf0bef95213abc.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 211,
-    name: "Youssou N.",
-    location: "Dakar",
-    rating: 5,
-    comment: "Appliquez ce masque de thé vert pendant 10 minutes, puis rincez. Toutes les impuretés ont disparu. Ma peau est maintenant parfaitement propre. J'en ai acheté trois flacons d'un coup, ils sont tellement faciles à utiliser !",
-    date: "26 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/Sa73b1e4b9abe4a4ca57a529223c0e13dm.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 212,
-    name: "Awa S.",
-    location: "Kaolack",
-    rating: 5,
-    comment: "Je l'utilise pour me nettoyer le visage une fois par jour, et j'ai récemment remarqué que ma peau est devenue propre et lisse, avec des pores beaucoup moins visibles",
-    date: "28 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/S81efe241134c4837ab30d27a388ff877Q.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 213,
-    name: "Modou B.",
-    location: "Dakar",
-    rating: 5,
-    comment: "Ce masque à l'argile est très agréable à utiliser, sans odeur forte et s'étale uniformément. Jusqu'à présent, je n'ai constaté aucune irritation cutanée.",
-    date: "30 Avril 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/S1c892830e7134c31bfd5d6d8079e5572i.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 214,
-    name: "Khady T.",
-    location: "Touba",
-    rating: 5,
-    comment: "L'effet m'a vraiment surprise. Je continue à l'utiliser et mes pores sont visiblement moins visibles. Quand je me regarde dans le miroir, la différence est imperceptible.",
-    date: "01 Mai 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/S4c1973f37666431eb6ef515b0c6b6076e.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 215,
-    name: "Souleymane D.",
-    location: "Dakar",
-    rating: 5,
-    comment: "Petit mais puissant",
-    date: "02 Mai 2026",
-    images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/Afbf3c9174dc048c49533ab086b9e6e72k.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aef6d7c3914ce4b7383f71164c9dd910dI.jpg_960x960q75.jpg_.avif"
-    ],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 216,
-    name: "Astou L.",
-    location: "Saint-Louis",
-    rating: 5,
-    comment: "Bonjour, merci beaucoup, ma commande est bien arrivée. J'ai hâte de l'essayer !",
-    date: "03 Mai 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A3fab9a618b00401ba5583ad35aea7d4bj.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 217,
-    name: "Moussa K.",
-    location: "Dakar",
-    rating: 4,
-    comment: "Je viens de l'acheter pour la première fois et je vais l'utiliser et revenir avec mon témoignage.",
-    date: "03 Mai 2026",
-    images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A50afb9145bbd4471ab35842489dc6669s.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A6669cd54243c4d5990214ed136097653r.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/A68eaad7eafa8470e8fc92b75bc772a53o.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Ab5271fa1ecf74f7daa9597d94a6b11017.jpg_960x960q75.jpg_.avif"
-    ],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 218,
-    name: "Bineta G.",
-    location: "Kolda",
-    rating: 5,
-    comment: "Reçu en parfait état, j'ai hâte de l'utiliser",
-    date: "04 Mai 2026",
-    images: [
-      "https://ae-pic-a1.aliexpress-media.com/kf/A17175c6f2e2640cabf40bb1f24b209b9N.jpg_960x960q75.jpg_.avif",
-      "https://ae-pic-a1.aliexpress-media.com/kf/Aad4a5992dfde423cb97ebd2d691bc3f6J.jpg_960x960q75.jpg_.avif"
-    ],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
-  },
-  {
-    id: 219,
-    name: "Coumba S.",
-    location: "Dakar",
-    rating: 5,
-    comment: "C'est la deuxième fois que je commande chez ce vendeur. Très satisfaite.",
-    date: "04 Mai 2026",
-    images: ["https://ae-pic-a1.aliexpress-media.com/kf/A573a91a5f4654f57b500463ae939e316E.jpg_960x960q75.jpg_.avif"],
-    productName: "Green Mask Stick | Masque Purifiant 🌱"
   }
 ];
 
@@ -2070,7 +1856,7 @@ const ReviewCard = ({ review, onProductClick, className, ...props }: { review: R
         <div className={`mb-3 md:mb-4 rounded-xl overflow-hidden relative ${review.images.length > 1 ? 'grid grid-cols-2 gap-1' : 'aspect-[16/9]'}`}>
           {review.images.slice(0, 4).map((img, idx) => (
             <div key={idx} className={`relative ${review.images!.length === 1 ? 'w-full h-full' : 'aspect-square'}`}>
-              <img loading="lazy" 
+              <img 
                 src={img} 
                 alt="Review" 
                 className="w-full h-full object-cover"
@@ -2086,7 +1872,7 @@ const ReviewCard = ({ review, onProductClick, className, ...props }: { review: R
         </div>
       ) : review.image && (
         <div className="mb-3 md:mb-4 rounded-xl overflow-hidden aspect-[16/9] relative">
-          <img loading="lazy" 
+          <img 
             src={review.image} 
             alt="Review" 
             className="w-full h-full object-cover"
@@ -2241,7 +2027,7 @@ const ProductCard: React.FC<Omit<ProductCardProps, 'onShowDetail'>> = ({ product
       className="bg-brand-surface border border-brand-border rounded-xl overflow-hidden group cursor-pointer hover:border-brand-accent transition-all hover:-translate-y-1.5 hover:shadow-2xl hover:shadow-black/10 flex flex-col h-full"
     >
       <div className="aspect-square overflow-hidden bg-brand-surface-alt relative">
-        <img loading="lazy" 
+        <img 
           src={(hovered && product.images.length > 1 ? product.images[1] : product.image) || undefined} 
           alt={product.name} 
           className="w-full h-full object-cover transition-all duration-700 group-hover:scale-110"
@@ -2869,7 +2655,7 @@ const CartDrawer = ({
                     <div key={item.id} className="flex gap-3.5 border border-brand-border rounded-xl p-3.5 bg-brand-surface-alt/10">
                       <div className="w-16 h-16 rounded-md bg-brand-surface-alt flex items-center justify-center text-2xl overflow-hidden flex-shrink-0">
                         {item.image ? (
-                          <img loading="lazy" src={item.image} alt={item.name} className="w-full h-full object-cover" />
+                          <img src={item.image} alt={item.name} className="w-full h-full object-cover" />
                         ) : (
                           <ShoppingBag size={24} className="text-brand-text-muted" />
                         )}
@@ -3240,7 +3026,7 @@ const CODModal = ({
                   >
                     {product.images.map((img, idx) => (
                       <div key={idx} className="w-full h-full relative flex-shrink-0">
-                        <img loading="lazy" 
+                        <img 
                           src={img} 
                           alt={`${product.name} ${idx + 1}`}
                           className="w-full h-full object-contain p-2 select-none pointer-events-none"
@@ -3292,7 +3078,7 @@ const CODModal = ({
                       className={`w-16 h-16 rounded-lg overflow-hidden flex-shrink-0 border-2 transition-all ${activeImageIdx === idx ? 'border-blue-500 scale-105 shadow-md' : 'border-transparent opacity-60 hover:opacity-100'}`}
                     >
                       {img ? (
-                        <img loading="lazy" src={img} alt="" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                        <img src={img} alt="" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                       ) : (
                         <div className="w-full h-full bg-slate-100" />
                       )}
@@ -3735,7 +3521,7 @@ const ReviewModal = ({ isOpen, onClose, onAddReview, products }: {
                   <div className="flex flex-wrap gap-2">
                     {images.map((img, idx) => (
                       <div key={idx} className="relative w-16 h-16 rounded-xl overflow-hidden border border-slate-200 group shadow-sm">
-                        <img loading="lazy" src={img} alt="Preview" className="w-full h-full object-cover" />
+                        <img src={img} alt="Preview" className="w-full h-full object-cover" />
                         <button 
                           type="button"
                           onClick={() => removeImage(idx)}
@@ -3823,7 +3609,7 @@ const CollectionsPage = ({ onBack, onCategoryClick }: { onBack: () => void, onCa
               onClick={() => onCategoryClick(cat.label.toLowerCase())}
               className="group relative h-[400px] rounded-3xl overflow-hidden cursor-pointer shadow-xl hover:shadow-2xl transition-all"
             >
-              <img loading="lazy" 
+              <img 
                 src={cat.image} 
                 alt={cat.label} 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
@@ -3935,7 +3721,6 @@ interface ProductDetailProps {
   onProductClick?: (productName: string) => void;
   formatPrice: (price: number) => string;
   firestoreReviews: any[];
-  onWriteReview: () => void;
 }
 
 const FormattedDescription = ({ text }: { text: string }) => {
@@ -3996,8 +3781,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
   onShowToast,
   onProductClick,
   formatPrice,
-  firestoreReviews,
-  onWriteReview
+  firestoreReviews
 }) => {
   const [currentImage, setCurrentImage] = useState(0);
   const [isAutoPlaying, setIsAutoPlaying] = useState(true);
@@ -4056,7 +3840,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
             >
               {product.images.map((img, idx) => (
                 <div key={idx} className="w-full h-full relative flex-shrink-0">
-                  <img loading="lazy" 
+                  <img 
                     src={img} 
                     alt={`${product.name} ${idx + 1}`} 
                     className="w-full h-full object-contain p-2 select-none pointer-events-none"
@@ -4172,16 +3956,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
             {/* Reviews Section */}
             <div className="pt-12 border-t border-brand-border" id="reviews-section">
               <div className="flex items-center justify-between mb-8">
-                <div className="flex flex-col gap-1">
-                  <h3 className="text-xl font-bold text-black uppercase tracking-tight">AVIS CLIENTS ({reviews.length})</h3>
-                  <button 
-                    onClick={onWriteReview}
-                    className="flex items-center gap-1.5 text-brand-accent font-bold text-[10px] uppercase tracking-wider hover:opacity-80 transition-all text-left"
-                  >
-                    <Pencil size={12} className="stroke-[3]" />
-                    RÉDIGER UN AVIS
-                  </button>
-                </div>
+                <h3 className="text-xl font-bold text-black uppercase tracking-tight">AVIS CLIENTS ({reviews.length})</h3>
                 <div className="flex items-center gap-1">
                   {[...Array(5)].map((_, i) => (
                     <Star 
@@ -4234,7 +4009,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
                       </p>
                       {review.image && !review.images && (
                         <div className="rounded-xl overflow-hidden aspect-[16/9] max-w-[200px]">
-                          <img loading="lazy" 
+                          <img 
                             src={review.image || undefined} 
                             alt="Avis client" 
                             className="w-full h-full object-cover"
@@ -4246,7 +4021,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
                         <div className="flex flex-wrap gap-2">
                           {review.images.map((img, i) => (
                             <div key={i} className="rounded-xl overflow-hidden aspect-square w-24 md:w-32 border border-brand-border">
-                              <img loading="lazy" 
+                              <img 
                                 src={img} 
                                 alt={`Avis client ${i + 1}`} 
                                 className="w-full h-full object-cover"
@@ -4458,7 +4233,7 @@ const ContactPage = ({ onBack }: { onBack: () => void }) => {
 
         <div className="bg-white rounded-[32px] overflow-hidden shadow-xl border border-brand-border">
           <div className="w-full">
-            <img loading="lazy" 
+            <img 
               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSqhKOJfpW0ZBRboeMWFILnUuGbgeaNXudIdObKipScfL-EOLGXeozjTqGtk5NRJIHs0ZTu8fa4MMr3yRmuXJelhyrW6ml3MC9ETgZvJXlWL0Azv1Y-L3ZKJVD8EYZL7s7q-cWFeDeGj8UcDFhzFIygsQhqSwD4Nhux1rmTE_nhlqjZu-9w5n57fVR4Yk/s800/2.webp" 
               alt="Contact Support" 
               className="w-full h-auto block"
@@ -5389,7 +5164,7 @@ const AdminDashboard = ({ onBack, formatPrice, onShowToast }: { onBack: () => vo
             <h1 className="text-xl md:text-2xl font-bold text-slate-900 truncate">Tableau de bord</h1>
             <div className="relative ml-2 md:ml-4">
               <div className="flex items-center gap-2 bg-white border border-slate-200 rounded-lg px-2.5 py-1.5 md:px-3 md:py-2 shadow-sm">
-                <img loading="lazy" 
+                <img 
                   src={COUNTRY_CONFIG['SN'].flag} 
                   alt="" 
                   className="w-6 h-6 md:w-8 md:h-8 object-contain" 
@@ -5491,7 +5266,7 @@ const AdminDashboard = ({ onBack, formatPrice, onShowToast }: { onBack: () => vo
                 <div className="text-[10px] md:text-xs text-slate-500 truncate max-w-[100px] md:max-w-none">{user?.email || 'Session PIN'}</div>
               </div>
               {user?.photoURL ? (
-                <img loading="lazy" src={user.photoURL} className="w-8 h-8 md:w-10 md:h-10 rounded-full border-2 border-white shadow-sm shrink-0" alt="Profile" />
+                <img src={user.photoURL} className="w-8 h-8 md:w-10 md:h-10 rounded-full border-2 border-white shadow-sm shrink-0" alt="Profile" />
               ) : (
                 <div className="w-8 h-8 md:w-10 md:h-10 rounded-full border-2 border-white shadow-sm shrink-0 bg-white flex items-center justify-center overflow-hidden">
                   <img 
@@ -6021,16 +5796,14 @@ const ProductPage = ({
   showToast,
   currentCountry,
   formatPrice,
-  firestoreReviews,
-  onWriteReview
+  firestoreReviews
 }: { 
   addToCart: (p: Product) => void, 
   openCODForm: (p: Product) => void, 
   showToast: (msg: string, type?: 'success' | 'error') => void,
   currentCountry: 'SN' | 'GN',
   formatPrice: (price: number) => string,
-  firestoreReviews: any[],
-  onWriteReview: () => void
+  firestoreReviews: any[]
 }) => {
   const { slug } = useParams<{ slug: string }>();
   const navigate = useNavigate();
@@ -6052,21 +5825,13 @@ const ProductPage = ({
 
   return (
     <ProductDetail 
-      product={product} 
-      onClose={() => navigate(-1)} 
+      product={product}
+      onClose={() => navigate(-1)}
       onAddToCart={addToCart}
       onBuyNow={(p) => openCODForm(p)}
       onShowToast={showToast}
-      onProductClick={(productName) => {
-        const p = PRODUCTS.find(prod => prod.name === productName);
-        if (p) {
-          navigate(`/products/${p.slug}`);
-          window.scrollTo(0, 0);
-        }
-      }}
       formatPrice={formatPrice}
       firestoreReviews={firestoreReviews}
-      onWriteReview={onWriteReview}
     />
   );
 };
@@ -6428,7 +6193,7 @@ function AppContent() {
                                {/* Inner Gloss */}
                                <div className="absolute inset-0 bg-linear-to-tr from-transparent via-white/5 to-white/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                                
-                               <img loading="lazy" 
+                               <img 
                                  src={cat.image} 
                                  alt={cat.label}
                                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
@@ -6510,7 +6275,7 @@ function AppContent() {
                 {/* Promo Banner */}
                 <section id="qui-sommes-nous-?" className="max-w-7xl mx-auto px-4 md:px-6 py-8 md:py-12">
                   <div className="relative overflow-hidden rounded-3xl md:rounded-[40px] border border-brand-accent/20 group shadow-2xl transition-transform hover:scale-[1.01] duration-500">
-                    <img loading="lazy" 
+                    <img 
                       src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMzufbFqdEVfckipgYlHfr9TJm6_5OJTnu6NQ6a7ZXfeWLrh0cFFhIoWiPENdSJvExVkTNv05XiLdNjjQyLNqCnBPYNftLlBN-Iko5QQahMls7NL6nHL98P6Cjd1wV8WpcNbE66FuNOSMqpM0rEvsq9RbllKwjz1OhZ5OKTZp7VDMFEZPoB1cL3Bj4AiE/s800/LIVRAISON%20RAPIDE%20&%20FIABLE.png" 
                       alt="Livraison Rapide et Fiable" 
                       className="w-full h-auto block transform transition-transform duration-700 group-hover:scale-105"
@@ -6576,7 +6341,6 @@ function AppContent() {
                 currentCountry={currentCountry}
                 formatPrice={formatPrice}
                 firestoreReviews={allReviews}
-                onWriteReview={() => setIsReviewModalOpen(true)}
               />
             } />
 
