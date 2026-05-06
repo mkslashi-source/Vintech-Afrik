@@ -1667,13 +1667,13 @@ const REVIEWS = [
 
 
 const RECENT_PURCHASES = [
-  { id: 1, name: "Aminata Diop", product: "Green Mask Stick 🌱", location: "Dakar, Almadies", time: "Il y a 5 min" },
-  { id: 3, name: "Bineta Samb", product: "Kit Smartbud 👂🏾", location: "Dakar, Mermoz", time: "Il y a 2 min" },
-  { id: 4, name: "Mbayang Mar", product: "Savon au Curcuma 🚿", location: "Thies", time: "Il y a 25 min" },
-  { id: 6, name: "Fatou Ba", product: "Green Mask Stick 🌱", location: "Dakar, Almadies", time: "Il y a 5 min" },
-  { id: 7, name: "Mouhamed Ndiaye", product: "Rasoir Électrique 🚀", location: "Pikine", time: "Il y a 12 min" },
-  { id: 9, name: "Abdou Sall", product: "Savon au Curcuma 🚿", location: "Thies", time: "Il y a 25 min" },
-  { id: 10, name: "Gnagna Fall", product: "Savon au Curcuma 🚿", location: "Saint-Louis", time: "Il y a 53 min" }
+  { id: 1001, name: "Aminata Diop", product: "Green Mask Stick 🌱", location: "Dakar, Almadies", time: "Il y a 5 min" },
+  { id: 1002, name: "Bineta Samb", product: "Kit Smartbud 👂🏾", location: "Dakar, Mermoz", time: "Il y a 2 min" },
+  { id: 1003, name: "Mbayang Mar", product: "Savon au Curcuma 🚿", location: "Thies", time: "Il y a 25 min" },
+  { id: 1004, name: "Fatou Ba", product: "Green Mask Stick 🌱", location: "Dakar, Almadies", time: "Il y a 5 min" },
+  { id: 1005, name: "Mouhamed Ndiaye", product: "Rasoir Électrique 🚀", location: "Pikine", time: "Il y a 12 min" },
+  { id: 1006, name: "Abdou Sall", product: "Savon au Curcuma 🚿", location: "Thies", time: "Il y a 25 min" },
+  { id: 1007, name: "Gnagna Fall", product: "Savon au Curcuma 🚿", location: "Saint-Louis", time: "Il y a 53 min" }
 ];
 
 // --- Components ---
@@ -2070,7 +2070,7 @@ const ReviewCard = ({ review, onProductClick, className, ...props }: { review: R
         <div className={`mb-3 md:mb-4 rounded-xl overflow-hidden relative ${review.images.length > 1 ? 'grid grid-cols-2 gap-1' : 'aspect-[16/9]'}`}>
           {review.images.slice(0, 4).map((img, idx) => (
             <div key={idx} className={`relative ${review.images!.length === 1 ? 'w-full h-full' : 'aspect-square'}`}>
-              <img 
+              <img loading="lazy" 
                 src={img} 
                 alt="Review" 
                 className="w-full h-full object-cover"
@@ -2086,7 +2086,7 @@ const ReviewCard = ({ review, onProductClick, className, ...props }: { review: R
         </div>
       ) : review.image && (
         <div className="mb-3 md:mb-4 rounded-xl overflow-hidden aspect-[16/9] relative">
-          <img 
+          <img loading="lazy" 
             src={review.image} 
             alt="Review" 
             className="w-full h-full object-cover"
@@ -2241,7 +2241,7 @@ const ProductCard: React.FC<Omit<ProductCardProps, 'onShowDetail'>> = ({ product
       className="bg-brand-surface border border-brand-border rounded-xl overflow-hidden group cursor-pointer hover:border-brand-accent transition-all hover:-translate-y-1.5 hover:shadow-2xl hover:shadow-black/10 flex flex-col h-full"
     >
       <div className="aspect-square overflow-hidden bg-brand-surface-alt relative">
-        <img 
+        <img loading="lazy" 
           src={(hovered && product.images.length > 1 ? product.images[1] : product.image) || undefined} 
           alt={product.name} 
           className="w-full h-full object-cover transition-all duration-700 group-hover:scale-110"
@@ -2869,7 +2869,7 @@ const CartDrawer = ({
                     <div key={item.id} className="flex gap-3.5 border border-brand-border rounded-xl p-3.5 bg-brand-surface-alt/10">
                       <div className="w-16 h-16 rounded-md bg-brand-surface-alt flex items-center justify-center text-2xl overflow-hidden flex-shrink-0">
                         {item.image ? (
-                          <img src={item.image} alt={item.name} className="w-full h-full object-cover" />
+                          <img loading="lazy" src={item.image} alt={item.name} className="w-full h-full object-cover" />
                         ) : (
                           <ShoppingBag size={24} className="text-brand-text-muted" />
                         )}
@@ -3240,7 +3240,7 @@ const CODModal = ({
                   >
                     {product.images.map((img, idx) => (
                       <div key={idx} className="w-full h-full relative flex-shrink-0">
-                        <img 
+                        <img loading="lazy" 
                           src={img} 
                           alt={`${product.name} ${idx + 1}`}
                           className="w-full h-full object-contain p-2 select-none pointer-events-none"
@@ -3292,7 +3292,7 @@ const CODModal = ({
                       className={`w-16 h-16 rounded-lg overflow-hidden flex-shrink-0 border-2 transition-all ${activeImageIdx === idx ? 'border-blue-500 scale-105 shadow-md' : 'border-transparent opacity-60 hover:opacity-100'}`}
                     >
                       {img ? (
-                        <img src={img} alt="" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                        <img loading="lazy" src={img} alt="" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                       ) : (
                         <div className="w-full h-full bg-slate-100" />
                       )}
@@ -3735,7 +3735,7 @@ const ReviewModal = ({ isOpen, onClose, onAddReview, products }: {
                   <div className="flex flex-wrap gap-2">
                     {images.map((img, idx) => (
                       <div key={idx} className="relative w-16 h-16 rounded-xl overflow-hidden border border-slate-200 group shadow-sm">
-                        <img src={img} alt="Preview" className="w-full h-full object-cover" />
+                        <img loading="lazy" src={img} alt="Preview" className="w-full h-full object-cover" />
                         <button 
                           type="button"
                           onClick={() => removeImage(idx)}
@@ -3823,7 +3823,7 @@ const CollectionsPage = ({ onBack, onCategoryClick }: { onBack: () => void, onCa
               onClick={() => onCategoryClick(cat.label.toLowerCase())}
               className="group relative h-[400px] rounded-3xl overflow-hidden cursor-pointer shadow-xl hover:shadow-2xl transition-all"
             >
-              <img 
+              <img loading="lazy" 
                 src={cat.image} 
                 alt={cat.label} 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
@@ -4056,7 +4056,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
             >
               {product.images.map((img, idx) => (
                 <div key={idx} className="w-full h-full relative flex-shrink-0">
-                  <img 
+                  <img loading="lazy" 
                     src={img} 
                     alt={`${product.name} ${idx + 1}`} 
                     className="w-full h-full object-contain p-2 select-none pointer-events-none"
@@ -4234,7 +4234,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
                       </p>
                       {review.image && !review.images && (
                         <div className="rounded-xl overflow-hidden aspect-[16/9] max-w-[200px]">
-                          <img 
+                          <img loading="lazy" 
                             src={review.image || undefined} 
                             alt="Avis client" 
                             className="w-full h-full object-cover"
@@ -4246,7 +4246,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
                         <div className="flex flex-wrap gap-2">
                           {review.images.map((img, i) => (
                             <div key={i} className="rounded-xl overflow-hidden aspect-square w-24 md:w-32 border border-brand-border">
-                              <img 
+                              <img loading="lazy" 
                                 src={img} 
                                 alt={`Avis client ${i + 1}`} 
                                 className="w-full h-full object-cover"
@@ -5389,7 +5389,7 @@ const AdminDashboard = ({ onBack, formatPrice, onShowToast }: { onBack: () => vo
             <h1 className="text-xl md:text-2xl font-bold text-slate-900 truncate">Tableau de bord</h1>
             <div className="relative ml-2 md:ml-4">
               <div className="flex items-center gap-2 bg-white border border-slate-200 rounded-lg px-2.5 py-1.5 md:px-3 md:py-2 shadow-sm">
-                <img 
+                <img loading="lazy" 
                   src={COUNTRY_CONFIG['SN'].flag} 
                   alt="" 
                   className="w-6 h-6 md:w-8 md:h-8 object-contain" 
@@ -5491,7 +5491,7 @@ const AdminDashboard = ({ onBack, formatPrice, onShowToast }: { onBack: () => vo
                 <div className="text-[10px] md:text-xs text-slate-500 truncate max-w-[100px] md:max-w-none">{user?.email || 'Session PIN'}</div>
               </div>
               {user?.photoURL ? (
-                <img src={user.photoURL} className="w-8 h-8 md:w-10 md:h-10 rounded-full border-2 border-white shadow-sm shrink-0" alt="Profile" />
+                <img loading="lazy" src={user.photoURL} className="w-8 h-8 md:w-10 md:h-10 rounded-full border-2 border-white shadow-sm shrink-0" alt="Profile" />
               ) : (
                 <div className="w-8 h-8 md:w-10 md:h-10 rounded-full border-2 border-white shadow-sm shrink-0 bg-white flex items-center justify-center overflow-hidden">
                   <img 
@@ -6421,7 +6421,7 @@ function AppContent() {
                                {/* Inner Gloss */}
                                <div className="absolute inset-0 bg-linear-to-tr from-transparent via-white/5 to-white/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                                
-                               <img 
+                               <img loading="lazy" 
                                  src={cat.image} 
                                  alt={cat.label}
                                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
